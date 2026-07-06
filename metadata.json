@@ -1,0 +1,6 @@
+{
+  "name": "Cybersecurity Awareness & Analytics Portal",
+  "description": "An interactive research and diagnostic log analytics platform exploring cybersecurity awareness, device usage, and data analytics prevention models among university students in Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
